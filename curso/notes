@@ -1,6 +1,14 @@
 https://www.youtube.com/watch?v=HFWQdGn5DaU&t=1086s&ab_channel=freeCodeCamp.org
 30
 
+msgbox("test")
+
+dim sFirstName As String
+
+sFirstName = "Kevin"
+
+MsgBox ("testunion " & sFirstName & " test2")
+
 
 
 
