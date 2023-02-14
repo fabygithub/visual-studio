@@ -7,7 +7,7 @@ dim sFirstName As String
 
 sFirstName = "Kevin"
 
-MsgBox ("testunion " & sFirstName & " test2")
+MsgBox ("testunion " & " " & sFirstName & " test2")
 
 
 
