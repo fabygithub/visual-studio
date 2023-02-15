@@ -9,6 +9,9 @@ sFirstName = "Kevin"
 
 MsgBox ("testunion " & " " & sFirstName & " test2")
 
+name : btnDataTypes
+caption : DataTypes
+
 
 
 
